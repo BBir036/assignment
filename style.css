@@ -1,0 +1,57 @@
+#tab1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    color: white;
+}
+#web{
+    width: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:cadetblue;
+    height: 100px;
+}
+#navpic{
+    background-color:cadetblue;
+    height: 100px;
+    width: 110px;
+}
+#date{
+    background-color:cadetblue;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.link{
+    width: 220px;
+}
+#content{
+    margin:50px;
+}
+#con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: justify;
+    gap: 10px;
+}
+#pics{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contact{
+    margin-left: 50px;
+}
+#f1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
